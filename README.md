@@ -29,3 +29,8 @@ Make sure you have Python installed.
 Install required library:
 ```bash
 pip install requests
+
+## How to Run
+```bash
+python weather_app.py
+
