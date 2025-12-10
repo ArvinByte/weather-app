@@ -35,7 +35,7 @@ pip install requests
 ```bash
 python weather_app.py
 ```
-Enter the name of a city in the text box and click Get Weather.
+ Enter the name of a city in the text box and click Get Weather.
 ---
 ## API Setup
 
