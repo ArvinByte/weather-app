@@ -3,7 +3,7 @@ import tkinter as tk
 from tkinter import messagebox
 
 # API Key for openweathermap
-API_KEY = 'c2d78e2660c399e76e034891033c7aa5'
+API_KEY = "YOUR_API_KEY"
 
 # Base URL for API request
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
