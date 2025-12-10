@@ -29,8 +29,22 @@ Make sure you have Python installed.
 Install required library:
 ```bash
 pip install requests
-
+```
+---
 ## How to Run
 ```bash
 python weather_app.py
+```
+Enter the name of a city in the text box and click Get Weather.
+---
+## API Setup
 
+This project uses OpenWeatherMap.
+
+Get your free API Key here:
+https://home.openweathermap.org/api_keys
+
+Replace your API key inside the script:
+```bash
+API_KEY = "YOUR_API_KEY"
+```
